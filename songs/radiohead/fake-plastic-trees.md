@@ -6,6 +6,8 @@ Chorus: Bm7add11 A Asus4
 
 Chorus 3: Bm7add11 A Amaj7
 
+Outro: Bm7add11 A E6 Bm7add11 A
+
 ## References
 
 - https://www.youtube.com/watch?v=nAWt2pKH-rw&ab_channel=GuitarZero2Hero
